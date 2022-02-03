@@ -1,6 +1,6 @@
 # Private Endpoint Setup 
 
-The recommended approach to using FHIR-Proxy with Private Endpoints is to deploy FHIR-Proxy without the private endpoints, ensure it is working, then cut over to the Private Endpoints.  This approach allows customers to troubleshoot any potential issues as they appear. 
+The recommended approach to using FHIR-Proxy with Private Endpoints is to first deploy FHIR-Proxy without the private endpoints, ensure it is working, and then cut over to the Private Endpoints. This approach allows customers to troubleshoot any potential issues as they appear. 
 
 [Read More about Private Endpoints](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 
